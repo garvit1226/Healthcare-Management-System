@@ -1,0 +1,121 @@
+DoctorID,DepartmentID,FirstName,LastName,Gender,DOB,Qualification,Specialization,ExperienceYears,Phone,Email,JoiningDate,ConsultationFee,Status
+1,2,Zashil,Gokhale,Male,1996-01-20,MD,Neurologist,3,4893252880,zashil.gokhale1@hospital.com,2023-04-08,1000,Active
+2,9,Aditya,Choudhury,Male,1986-03-16,MBBS,Gynecologist,10,3039117182,aditya.choudhury2@hospital.com,2016-07-02,500,Active
+3,10,Fitan,Lanka,Male,1997-05-31,DM,Eye Specialist,2,3834657871,fitan.lanka3@hospital.com,2024-12-21,700,Active
+4,1,Omkaar,Bail,Male,1977-03-01,MS,Interventional Cardiologist,23,0103105183,omkaar.bail4@hospital.com,2003-07-11,500,Inactive
+5,6,Dominic,Solanki,Male,1978-01-15,MS,Oncologist,3,6311656670,dominic.solanki5@hospital.com,2023-07-04,800,Active
+6,1,Pallavi,Chopra,Female,1978-06-05,MBBS,Cardiologist,18,3872624731,pallavi.chopra6@hospital.com,2008-02-13,1200,Active
+7,6,Aryan,Zachariah,Male,1962-07-05,MD,Oncologist,5,3267736026,aryan.zachariah7@hospital.com,2021-01-22,400,Active
+8,2,Vasana,Mangal,Female,1990-04-16,MS,Neurologist,5,2343098050,vasana.mangal8@hospital.com,2021-08-21,600,Active
+9,5,Zayan,Wali,Male,1972-03-21,MD,Dermatologist,20,8121913619,zayan.wali9@hospital.com,2006-11-06,700,Active
+10,9,Anmol,Bumb,Male,1990-01-12,MBBS,Gynecologist,11,4353462475,anmol.bumb10@hospital.com,2015-06-27,1200,Active
+11,6,Daksha,Borah,Female,1998-02-02,MS,Oncologist,2,8425135427,daksha.borah11@hospital.com,2024-02-07,1000,Active
+12,8,Aayush,Mistry,Male,1968-07-21,MS,Physician,17,4118244935,aayush.mistry12@hospital.com,2009-03-08,800,Active
+13,4,Yash,Krishnamurthy,Male,1964-12-17,MBBS,Pediatrician,33,6400524278,yash.krishnamurthy13@hospital.com,1993-08-03,500,Active
+14,7,Daksh,Borra,Male,1971-08-25,DM,ENT Specialist,13,5982620450,daksh.borra14@hospital.com,2013-07-20,800,Active
+15,1,Charan,Pandya,Male,1989-02-27,MS,Cardiologist,11,3226025634,charan.pandya15@hospital.com,2015-09-25,400,Active
+16,3,Anjali,Singhal,Female,1976-08-22,MS,Orthopedic Surgeon,1,7543303654,anjali.singhal16@hospital.com,2025-12-24,800,Active
+17,5,Ryan,Yadav,Male,1984-01-15,MD,Dermatologist,5,1429401965,ryan.yadav17@hospital.com,2021-06-25,800,Active
+18,1,Dalbir,Rajan,Male,1974-06-10,MBBS,Interventional Cardiologist,12,0608835615,dalbir.rajan18@hospital.com,2014-05-08,800,Inactive
+19,2,Netra,Tripathi,Female,1982-07-21,MD,Neurologist,3,5648236629,netra.tripathi19@hospital.com,2023-09-25,1000,Active
+20,9,Aadi,Modi,Male,1981-01-11,DM,Gynecologist,9,6995777387,aadi.modi20@hospital.com,2017-09-28,800,Active
+21,4,Yasti,Nayak,Female,1967-11-10,MS,Pediatrician,26,4332003791,yasti.nayak21@hospital.com,2000-11-21,800,Active
+22,4,Gunbir,Rajagopalan,Male,1995-02-23,MD,Pediatrician,1,3201632870,gunbir.rajagopalan22@hospital.com,2025-06-01,400,Active
+23,1,Vedant,Deol,Male,1993-02-14,MS,Interventional Cardiologist,2,7986872774,vedant.deol23@hospital.com,2024-01-28,800,Active
+24,8,Xavier,Khare,Male,1980-03-11,DM,Physician,18,1434558122,xavier.khare24@hospital.com,2008-03-24,1200,Active
+25,7,Hredhaan,Bhatt,Male,1989-09-26,DM,ENT Specialist,2,5876036690,hredhaan.bhatt25@hospital.com,2024-02-22,700,Active
+26,1,Aarush,Pandey,Male,1981-10-29,MS,Interventional Cardiologist,2,6889373467,aarush.pandey26@hospital.com,2024-07-24,500,Active
+27,9,Tanmayi,Gandhi,Female,1993-04-24,MS,Gynecologist,3,9806990162,tanmayi.gandhi27@hospital.com,2023-07-06,500,Active
+28,2,Leena,Raghavan,Female,1983-10-13,MBBS,Neurologist,18,7556464170,leena.raghavan28@hospital.com,2008-02-02,1200,Active
+29,3,Jasmit,Biswas,Female,1964-03-30,DM,Orthopedic Surgeon,32,3309232719,jasmit.biswas29@hospital.com,1994-08-07,500,Active
+30,7,Raksha,Ganesh,Female,1969-04-19,DM,ENT Specialist,30,4190496631,raksha.ganesh30@hospital.com,1996-05-14,500,Active
+31,1,Matthew,Dara,Male,1964-04-19,DM,Interventional Cardiologist,21,8651850671,matthew.dara31@hospital.com,2005-01-02,400,Inactive
+32,2,Faraj,Saran,Male,1973-06-28,MD,Neurologist,3,9877694531,faraj.saran32@hospital.com,2023-10-03,400,Inactive
+33,10,Vincent,Raghavan,Male,1984-05-25,DM,Eye Specialist,2,7527354549,vincent.raghavan33@hospital.com,2024-10-03,600,Active
+34,6,Girish,Chada,Male,1977-12-05,MS,Oncologist,9,7837770143,girish.chada34@hospital.com,2017-07-05,600,Inactive
+35,2,Qarin,Solanki,Male,1997-08-20,MBBS,Neurologist,4,6855744431,qarin.solanki35@hospital.com,2022-10-19,800,Active
+36,5,George,Handa,Male,1976-03-25,MS,Dermatologist,12,4989413435,george.handa36@hospital.com,2014-02-08,500,Active
+37,9,Edhitha,Mahal,Female,1964-08-08,MS,Gynecologist,34,8427109477,edhitha.mahal37@hospital.com,1992-01-22,500,Active
+38,2,Atharv,Krishnan,Male,1994-01-06,MD,Neurologist,3,1671902294,atharv.krishnan38@hospital.com,2023-05-20,500,Active
+39,5,Turvi,Kara,Female,1997-01-24,DM,Dermatologist,3,7749649909,turvi.kara39@hospital.com,2023-01-03,400,Active
+40,3,Libni,Bumb,Female,1972-03-11,DM,Orthopedic Surgeon,6,2812067974,libni.bumb40@hospital.com,2020-12-15,400,Active
+41,3,Lohit,Setty,Male,1966-05-07,MD,Orthopedic Surgeon,24,4936183242,lohit.setty41@hospital.com,2002-10-18,500,Active
+42,6,Mitesh,Mani,Male,1991-05-23,MD,Oncologist,6,7464887719,mitesh.mani42@hospital.com,2020-04-22,600,Active
+43,7,Jeremiah,Bal,Male,1967-09-20,MD,ENT Specialist,16,9904902787,jeremiah.bal43@hospital.com,2010-03-26,400,Active
+44,6,Urmi,Swamy,Female,1967-09-18,MBBS,Oncologist,16,5655125674,urmi.swamy44@hospital.com,2010-05-06,1200,Active
+45,8,Utkarsh,Chakrabarti,Male,1982-11-28,MS,Physician,7,5168087603,utkarsh.chakrabarti45@hospital.com,2019-08-12,500,Active
+46,4,Yahvi,Sathe,Female,1965-01-06,MBBS,Pediatrician,22,4824771093,yahvi.sathe46@hospital.com,2004-05-28,600,Active
+47,7,Advika,Reddy,Female,1967-11-06,MD,ENT Specialist,2,1712748467,advika.reddy47@hospital.com,2024-02-09,400,Active
+48,7,Eta,Rajagopal,Female,1974-06-23,MBBS,ENT Specialist,24,1465840449,eta.rajagopal48@hospital.com,2002-06-14,800,Active
+49,1,Vansha,Yohannan,Female,1994-06-19,MD,Cardiologist,1,5886753396,vansha.yohannan49@hospital.com,2025-09-26,700,Active
+50,6,Nitara,Solanki,Female,1987-06-13,MS,Oncologist,11,2702895171,nitara.solanki50@hospital.com,2015-02-24,1000,Active
+51,7,Eshana,Rout,Female,1972-01-04,DM,ENT Specialist,18,7459615865,eshana.rout51@hospital.com,2008-03-07,1000,Active
+52,3,Bhavya,Keer,Female,1981-01-22,MBBS,Orthopedic Surgeon,13,1611724005,bhavya.keer52@hospital.com,2013-09-27,600,Active
+53,10,Ridhi,Sankar,Female,1971-05-31,MD,Eye Specialist,15,8692221969,ridhi.sankar53@hospital.com,2011-08-15,1200,Active
+54,3,Ekbal,Kata,Male,1992-11-19,MS,Orthopedic Surgeon,5,7407482175,ekbal.kata54@hospital.com,2021-09-22,1200,Inactive
+55,4,Ladli,Shan,Female,1982-01-24,MBBS,Pediatrician,8,6713695944,ladli.shan55@hospital.com,2018-04-05,500,Inactive
+56,10,Aayush,Bawa,Male,1995-04-23,MD,Eye Specialist,4,3953394210,aayush.bawa56@hospital.com,2022-07-21,700,Active
+57,3,Qabil,Deep,Male,1967-08-22,MD,Orthopedic Surgeon,7,5623285884,qabil.deep57@hospital.com,2019-07-08,400,Active
+58,2,Neelima,Nigam,Female,1969-05-05,MS,Neurologist,9,1236851604,neelima.nigam58@hospital.com,2017-08-22,800,Active
+59,9,Raksha,Lala,Female,1987-06-08,MD,Gynecologist,14,1370985931,raksha.lala59@hospital.com,2012-09-15,700,Active
+60,4,Devika,Dey,Female,1964-08-03,MD,Pediatrician,34,4711382675,devika.dey60@hospital.com,1992-08-21,700,Active
+61,5,Faras,Sachdeva,Male,1968-03-29,MBBS,Dermatologist,18,9640537735,faras.sachdeva61@hospital.com,2008-06-11,500,Active
+62,3,Praneel,Bhat,Male,1988-08-06,MS,Orthopedic Surgeon,2,3171390053,praneel.bhat62@hospital.com,2024-07-14,700,Active
+63,7,Bhavya,Johal,Female,1976-03-14,MBBS,ENT Specialist,25,5290422842,bhavya.johal63@hospital.com,2001-10-23,700,Active
+64,6,Advika,Parmar,Female,1977-09-11,MD,Oncologist,13,0240268117,advika.parmar64@hospital.com,2013-07-18,500,Active
+65,8,Chatura,Seth,Male,1995-10-16,DM,Physician,4,9084700766,chatura.seth65@hospital.com,2022-06-22,1200,Active
+66,3,Balhaar,Buch,Male,1983-06-05,MBBS,Orthopedic Surgeon,13,1249985698,balhaar.buch66@hospital.com,2013-10-19,1000,Active
+67,8,Tanveer,Chaudhary,Male,1969-04-16,MS,Physician,4,6736576615,tanveer.chaudhary67@hospital.com,2022-05-13,700,Active
+68,7,Ridhi,Dua,Female,1993-10-11,MBBS,ENT Specialist,7,1116152809,ridhi.dua68@hospital.com,2019-05-27,400,Active
+69,1,Divya,Roy,Female,1985-07-26,MBBS,Interventional Cardiologist,8,0494519832,divya.roy69@hospital.com,2018-11-03,500,Active
+70,1,Parth,Pillai,Male,1969-04-28,MBBS,Interventional Cardiologist,16,9368998094,parth.pillai70@hospital.com,2010-03-16,700,Active
+71,6,Mohammed,Nori,Male,1985-05-23,MBBS,Oncologist,4,2296120183,mohammed.nori71@hospital.com,2022-03-10,600,Active
+72,7,Panini,Dugar,Female,1986-09-08,MD,ENT Specialist,12,5991022901,panini.dugar72@hospital.com,2014-04-03,1000,Active
+73,10,Xavier,Sathe,Male,1989-09-09,DM,Eye Specialist,10,3815614978,xavier.sathe73@hospital.com,2016-01-12,400,Active
+74,6,Rudra,Bhakta,Male,1962-01-10,DM,Oncologist,27,4324451076,rudra.bhakta74@hospital.com,1999-08-04,1000,Active
+75,8,Ishwar,Tella,Male,1985-08-09,MS,Physician,14,6060715969,ishwar.tella75@hospital.com,2012-03-24,700,Active
+76,10,Deepa,Ravel,Female,1962-12-04,MBBS,Eye Specialist,21,2975161369,deepa.ravel76@hospital.com,2005-04-27,700,Active
+77,8,Siya,Mukherjee,Female,1984-08-10,MS,Physician,11,5218188355,siya.mukherjee77@hospital.com,2015-01-16,700,Active
+78,5,Eta,Kunda,Female,1974-12-06,MS,Dermatologist,9,9212779979,eta.kunda78@hospital.com,2017-10-23,800,Inactive
+79,2,Faqid,Sarraf,Male,1966-02-25,MD,Neurologist,27,7449058147,faqid.sarraf79@hospital.com,1999-08-18,1000,Active
+80,8,Qarin,Mangat,Male,1966-09-22,DM,Physician,6,9986798079,qarin.mangat80@hospital.com,2020-05-08,600,Active
+81,6,Vyanjana,Thaker,Female,1971-10-09,DM,Oncologist,18,7151820377,vyanjana.thaker81@hospital.com,2008-09-12,600,Active
+82,5,Gauri,Patla,Female,1986-11-17,MD,Dermatologist,5,6659051518,gauri.patla82@hospital.com,2021-04-04,400,Active
+83,3,Falan,Nath,Male,1967-01-19,MS,Orthopedic Surgeon,14,5462914865,falan.nath83@hospital.com,2012-12-16,400,Active
+84,5,Siddharth,Trivedi,Male,1986-02-16,MBBS,Dermatologist,6,5423573322,siddharth.trivedi84@hospital.com,2020-03-10,600,Active
+85,1,Yashica,Zacharia,Female,1997-05-03,DM,Interventional Cardiologist,2,5929622292,yashica.zacharia85@hospital.com,2024-11-28,1200,Active
+86,5,Rajata,Khanna,Female,1991-09-25,MD,Dermatologist,8,7383473597,rajata.khanna86@hospital.com,2018-08-11,600,Inactive
+87,8,Zayan,Wable,Male,1989-12-29,MBBS,Physician,2,3924075818,zayan.wable87@hospital.com,2024-07-16,500,Active
+88,10,Gaurika,Mahajan,Female,1992-01-30,DM,Eye Specialist,2,6137506068,gaurika.mahajan88@hospital.com,2024-04-04,1200,Active
+89,8,Chaitaly,Prasad,Female,1976-10-13,MS,Physician,10,5152204727,chaitaly.prasad89@hospital.com,2016-10-14,800,Inactive
+90,2,Balveer,Bahl,Male,1978-12-03,MBBS,Neurologist,21,2898614341,balveer.bahl90@hospital.com,2005-04-09,500,Active
+91,2,Veer,Bhatnagar,Male,1969-01-18,DM,Neurologist,1,9808932460,veer.bhatnagar91@hospital.com,2025-07-15,400,Active
+92,5,Turvi,Grover,Female,1967-05-01,MS,Dermatologist,5,1888880670,turvi.grover92@hospital.com,2021-11-08,700,Active
+93,4,Abhiram,Parikh,Male,1966-02-06,MBBS,Pediatrician,18,3195205852,abhiram.parikh93@hospital.com,2008-03-03,1200,Active
+94,10,Ekanta,Bhatnagar,Female,1992-08-25,MS,Eye Specialist,8,4303054868,ekanta.bhatnagar94@hospital.com,2018-02-15,600,Active
+95,8,Ikshita,Mangal,Female,1985-10-18,DM,Physician,3,5415667652,ikshita.mangal95@hospital.com,2023-10-02,800,Active
+96,2,Kiaan,Butala,Male,1990-05-23,MBBS,Neurologist,11,6928451154,kiaan.butala96@hospital.com,2015-10-19,800,Active
+97,3,Unni,Ganesan,Female,1991-09-18,MS,Orthopedic Surgeon,9,7059640165,unni.ganesan97@hospital.com,2017-11-15,800,Active
+98,8,Ekbal,Sarma,Male,1963-11-15,MS,Physician,31,1355690927,ekbal.sarma98@hospital.com,1995-06-14,1000,Active
+99,3,Brinda,Devan,Female,1997-07-14,MS,Orthopedic Surgeon,4,6543102786,brinda.devan99@hospital.com,2022-12-16,1200,Active
+100,1,Leena,Sehgal,Female,1976-02-09,MS,Interventional Cardiologist,3,7312172715,leena.sehgal100@hospital.com,2023-06-09,1200,Active
+101,9,Maanav,Mital,Male,1972-03-22,DM,Gynecologist,22,5831323705,maanav.mital101@hospital.com,2004-09-15,500,Active
+102,10,Vinaya,Dayal,Female,1967-05-16,MS,Eye Specialist,29,4678669125,vinaya.dayal102@hospital.com,1997-01-07,600,Active
+103,8,Orinder,Dave,Male,1973-11-20,MD,Physician,1,6801824225,orinder.dave103@hospital.com,2025-11-20,600,Active
+104,9,Meghana,Brar,Female,1978-07-23,MBBS,Gynecologist,3,8424981829,meghana.brar104@hospital.com,2023-04-27,400,Active
+105,3,Pahal,Barman,Female,1963-06-08,MS,Orthopedic Surgeon,19,0943969078,pahal.barman105@hospital.com,2007-09-23,1200,Active
+106,8,Jason,Ravi,Male,1981-09-29,DM,Physician,15,1027677359,jason.ravi106@hospital.com,2011-09-05,800,Active
+107,3,Orinder,Rastogi,Male,1970-05-28,MS,Orthopedic Surgeon,9,8815371473,orinder.rastogi107@hospital.com,2017-07-11,600,Active
+108,10,Mohini,Rajagopalan,Female,1989-12-16,DM,Eye Specialist,3,2595327877,mohini.rajagopalan108@hospital.com,2023-08-18,600,Active
+109,9,Chandani,Ramaswamy,Female,1995-11-25,MD,Gynecologist,4,3395004797,chandani.ramaswamy109@hospital.com,2022-06-28,800,Active
+110,7,Chatura,Sankar,Male,1970-08-14,DM,ENT Specialist,11,5650609835,chatura.sankar110@hospital.com,2015-12-16,1000,Active
+111,3,Sanya,Thaman,Female,1992-02-25,MS,Orthopedic Surgeon,1,9912165585,sanya.thaman111@hospital.com,2025-03-17,1200,Active
+112,2,Yashoda,Ratti,Female,1995-07-15,DM,Neurologist,1,0025787298,yashoda.ratti112@hospital.com,2025-12-05,400,Active
+113,5,Odika,Gaba,Female,1988-03-30,MBBS,Dermatologist,10,9588879470,odika.gaba113@hospital.com,2016-12-13,1200,Active
+114,9,Turvi,Morar,Female,1963-04-27,DM,Gynecologist,21,4993097289,turvi.morar114@hospital.com,2005-11-23,800,Active
+115,5,Amol,Choudhary,Male,1974-06-27,MBBS,Dermatologist,24,7562636897,amol.choudhary115@hospital.com,2002-02-14,700,Active
+116,5,Hemang,Nair,Male,1994-01-21,MBBS,Dermatologist,1,5278585497,hemang.nair116@hospital.com,2025-06-26,600,Active
+117,3,Manthan,Kar,Male,1981-10-04,MD,Orthopedic Surgeon,17,3757584419,manthan.kar117@hospital.com,2009-07-19,500,Active
+118,7,Orinder,Dhingra,Male,1981-04-09,MD,ENT Specialist,16,4157473384,orinder.dhingra118@hospital.com,2010-10-05,1000,Active
+119,5,Chatura,Khatri,Male,1978-01-02,MD,Dermatologist,15,8330165712,chatura.khatri119@hospital.com,2011-05-22,700,Inactive
+120,10,Tanvi,Soni,Female,1993-12-30,DM,Eye Specialist,7,4540193802,tanvi.soni120@hospital.com,2019-12-09,500,Inactive

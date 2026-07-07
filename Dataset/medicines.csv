@@ -1,0 +1,51 @@
+MedicineID,MedicineName,Category,Manufacturer,UnitPrice
+1,Paracetamol,Vitamin,Abbott,453.89
+2,Crocin,Supplement,Torrent,79.05
+3,Dolo 650,Cardiac,Alkem,345.75
+4,Azithromycin,Cardiac,Abbott,109.56
+5,Amoxicillin,Antibiotic,Cipla,150.15
+6,Cefixime,Antibiotic,Sun Pharma,463.63
+7,Ibuprofen,Antihistamine,Dr. Reddy's,409.63
+8,Diclofenac,Painkiller,Sun Pharma,464.87
+9,Aceclofenac,Antihistamine,Mankind,329.8
+10,Metformin,Antibiotic,Sun Pharma,27.28
+11,Insulin,Vitamin,Torrent,430.32
+12,Glimepiride,Vitamin,Dr. Reddy's,46.87
+13,Amlodipine,Vitamin,Mankind,239.61
+14,Telmisartan,Antacid,Cipla,221.33
+15,Losartan,Antidiabetic,Abbott,484.31
+16,Atorvastatin,Painkiller,Abbott,385.09
+17,Aspirin,Painkiller,Torrent,496.83
+18,Pantoprazole,Antibiotic,Abbott,73.99
+19,Omeprazole,Cardiac,Mankind,185.27
+20,Rabeprazole,Vitamin,Alkem,100.36
+21,Cetirizine,Antibiotic,Dr. Reddy's,294.17
+22,Levocetirizine,Supplement,Abbott,181.83
+23,Montelukast,Antihistamine,Mankind,416.21
+24,Vitamin C,Antacid,Abbott,86.95
+25,Vitamin D,Vitamin,Torrent,125.02
+26,Calcium,Antacid,Dr. Reddy's,15.69
+27,Zinc Tablets,Antihistamine,Torrent,350.23
+28,ORS,Antacid,Mankind,124.37
+29,Eye Drops,Antacid,Alkem,222.01
+30,Artificial Tears,Antihistamine,Sun Pharma,242.73
+31,Ear Drops,Painkiller,Sun Pharma,282.35
+32,Cough Syrup,Supplement,Sun Pharma,263.05
+33,Salbutamol Inhaler,Cardiac,Torrent,397.14
+34,Budesonide Inhaler,Painkiller,Dr. Reddy's,417.44
+35,Prednisolone,Antacid,Alkem,33.71
+36,Hydrocortisone Cream,Antibiotic,Torrent,75.47
+37,Clotrimazole Cream,Cardiac,Cipla,186.8
+38,Mupirocin Ointment,Antacid,Dr. Reddy's,357.45
+39,Antacid Syrup,Supplement,Alkem,462.68
+40,Multivitamin,Antidiabetic,Lupin,392.99
+41,Iron Tablets,Supplement,Abbott,172.29
+42,Folic Acid,Antidiabetic,Dr. Reddy's,85.4
+43,Ondansetron,Antacid,Dr. Reddy's,83.69
+44,Domperidone,Vitamin,Sun Pharma,322.85
+45,Tramadol,Antidiabetic,Lupin,498.61
+46,Lignocaine Gel,Antihistamine,Dr. Reddy's,362.92
+47,Betadine Solution,Vitamin,Dr. Reddy's,371.11
+48,Silver Sulfadiazine,Antihistamine,Alkem,42.72
+49,Amoxiclav,Vitamin,Mankind,117.37
+50,Doxycycline,Antibiotic,Alkem,132.49
